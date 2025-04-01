@@ -10,6 +10,8 @@ Users describe their coding issues in natural language (e.g., “My Python loop 
 
 “Let’s hypothesize why index 5 might be problematic.”
 
+"Explain Recursion to me using a visual methaphor."
+
 2. Visualize Concepts 🌈
 For complex concepts, CodeCraft provides dynamic visualizations and metaphors to help users grasp difficult topics:
 
